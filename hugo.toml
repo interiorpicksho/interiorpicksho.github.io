@@ -1,0 +1,91 @@
+baseURL = "https://interiorpicksho.github.io/"
+languageCode = "ko-kr"
+title = "interiorpicksho 쇼핑 블로그"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+summaryLength = 35
+
+[pagination]
+pagerSize = 12
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
+[minify]
+disableXML = false
+minifyOutput = true
+
+[sitemap]
+changefreq = "daily"
+priority = 0.7
+filename = "sitemap.xml"
+
+[permalinks]
+posts = "/posts/:slug/"
+
+[params]
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowShareButtons = true
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+TocOpen = false
+env = "production"
+description = "인테리어 감각을 높여주는 홈 데코 & 가구 쇼핑 블로그입니다. 트렌디한 인테리어 소품, 조명, 패브릭, 가구 등 공간을 아름답게 꾸밀 수 있는 데코 아이템을 매일 엄선하여 소개합니다"
+keywords = ["인테리어쇼핑", "홈데코추천", "인테리어소품", "가구쇼핑", "공간꾸미기"]
+images = ["/images/og-default.webp"]
+
+# Search engine verification (set only when needed)
+googleSiteVerification = ""
+naverSiteVerification = ""
+bingSiteVerification = ""
+yandexSiteVerification = ""
+
+[params.homeInfoParams]
+Title = "공간을 더 아름답게, 인테리어픽샵 홈데코 큐레이션"
+Content = "나만의 감성 공간을 만들고 싶으신가요? 인테리어픽샵에서는 거실, 침실, 서재 등 공간별로 분위기를 바꿔줄 트렌디한 홈 데코 아이템을 매일 소개합니다. 감각적인 조명부터 세련된 패브릭, 개성 있는 인테리어 소품까지 당신의 공간을 한층 특별하게 만들어줄 제품을 만나보세요."
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 2
+keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 5
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30
