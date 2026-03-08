@@ -1,10 +1,10 @@
-﻿---
-title: "컴패스트cpe  [30~40대 여성추천] 콤피패스트(comfifast) 튜블러밴디지 레드 1m, 1개 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: '컴패스트cpe  [30~40대 여성추천] 콤피패스트(comfifast) 튜블러밴디지 레드 1m, 1개 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-23
-slug: "컴패스트cpe-콤피패스트comfifast-튜블러밴디지-레드-1m-1개"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 컴패스트cpe]
+slug: '컴패스트cpe-콤피패스트comfifast-튜블러밴디지-레드-1m-1개'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '컴패스트cpe']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

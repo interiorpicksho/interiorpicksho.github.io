@@ -1,10 +1,10 @@
-﻿---
-title: "a4sm1mq16blu  |HP 2024 노트북 15 코어5 인텔 14세대, 15-fd1025TU, WIN11 Home, 32GB, 1TB, Diamo 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'a4sm1mq16blu  |HP 2024 노트북 15 코어5 인텔 14세대, 15-fd1025TU, WIN11 Home, 32GB, 1TB, Diamo 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-21
-slug: "a4sm1mq16blu-HP-2024-노트북-15-코어5-인텔-14세대-15fd1025TU-WIN11-Home-32GB-1TB-Diamond-White"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, a4sm1mq16blu]
+slug: 'a4sm1mq16blu-HP-2024-노트북-15-코어5-인텔-14세대-15fd1025TU-WIN11-Home-32GB-1TB-Diamond-White'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'a4sm1mq16blu']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>
